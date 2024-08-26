@@ -1,6 +1,6 @@
-﻿# Analyzing trends in kinetic parameters of tRNA Selection by fitting N36-N39 segment stability to split-tRNA's decoding efficincy
+﻿# Analyzing trends in kinetic parameters of tRNA Selection by fitting N36-N39 segment stabilities to decoding efficincies of N37N38 split-tRNA variants
 
-The algorithm iteratively perturbs the stability values within the N36-N39 segment to fit experimentally obtained decoding efficiencies. This process approximates optimal stability values within the constraints of the kinetic model for tRNA selection and identifies trends in regression coefficients. As these coefficients are determined by kinetic parameters, the observed trends provide insights into the sensitivity of different selection steps to codon-anticodon complex stability.
+The algorithm iteratively perturbs the stability values within the N36-N39 segment to fit experimentally obtained decoding efficiencies. This process approximates optimal stability values within the constraints of the kinetic model for tRNA selection and identifies trends in regression coefficients. As these coefficients are proportional to kinetic parameters, the observed trends provide insights into the sensitivity of different selection stages to codon-anticodon complex stability.
 
 ## Table of Contents
 1. [Model Description](#1-model-description)
